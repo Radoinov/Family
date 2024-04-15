@@ -1,0 +1,14 @@
+C:\Stanislav9a\Classes 9a\Family\bin\Debug\net8.0\Family.exe
+C:\Stanislav9a\Classes 9a\Family\bin\Debug\net8.0\Family.deps.json
+C:\Stanislav9a\Classes 9a\Family\bin\Debug\net8.0\Family.runtimeconfig.json
+C:\Stanislav9a\Classes 9a\Family\bin\Debug\net8.0\Family.dll
+C:\Stanislav9a\Classes 9a\Family\bin\Debug\net8.0\Family.pdb
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.AssemblyInfoInputs.cache
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.AssemblyInfo.cs
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.csproj.CoreCompileInputs.cache
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.dll
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\refint\Family.dll
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.pdb
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\Family.genruntimeconfig.cache
+C:\Stanislav9a\Classes 9a\Family\obj\Debug\net8.0\ref\Family.dll

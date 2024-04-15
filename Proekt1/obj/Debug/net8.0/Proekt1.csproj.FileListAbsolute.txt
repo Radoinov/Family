@@ -1,0 +1,14 @@
+C:\Stanislav9a\Classes 9a\Proekt1\bin\Debug\net8.0\Proekt1.exe
+C:\Stanislav9a\Classes 9a\Proekt1\bin\Debug\net8.0\Proekt1.deps.json
+C:\Stanislav9a\Classes 9a\Proekt1\bin\Debug\net8.0\Proekt1.runtimeconfig.json
+C:\Stanislav9a\Classes 9a\Proekt1\bin\Debug\net8.0\Proekt1.dll
+C:\Stanislav9a\Classes 9a\Proekt1\bin\Debug\net8.0\Proekt1.pdb
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.AssemblyInfoInputs.cache
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.AssemblyInfo.cs
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.csproj.CoreCompileInputs.cache
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.dll
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\refint\Proekt1.dll
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.pdb
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\Proekt1.genruntimeconfig.cache
+C:\Stanislav9a\Classes 9a\Proekt1\obj\Debug\net8.0\ref\Proekt1.dll
